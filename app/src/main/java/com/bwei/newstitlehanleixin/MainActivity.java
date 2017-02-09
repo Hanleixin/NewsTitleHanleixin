@@ -14,39 +14,4 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Oliver","onCreate");
     }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
-        Log.d("Oliver","onStart");
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        Log.d("Oliver","onPause");
-    }
-
-    @Override
-    protected void onStop() {
-        super.onStop();
-        Log.d("Oliver","onStop");
-    }
-
-    @Override
-    protected void onRestart() {
-        super.onRestart();
-        Log.d("Oliver","onRestart");
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        Log.d("Oliver","onResume");
-    }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Log.d("Oliver","onDestroy");
-    }
 }

@@ -3,4 +3,31 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- 所有页面头部的背景颜色 -->
+    <color name="all_background_title">#D43D3D</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+
+    <!--黑色-->
+    <color name="black">#000000</color>
+
+    <color name="text_night_color">#686969</color>
+
+    <color name="text_day_color">#272736</color>
+
+    <!--主页底部颜色-->
+    <color name="main_button_select_before">#272736</color>
+
+    <!-- 模块导航背景色 -->
+    <color name="color_module_navigation">#404767</color>
+
+    <color name="main_black_grey">#6D6D6D</color>
+    <color name="fab_red">#F6F6F6</color>
+
+    <color name="tbl_color">#dddddd</color>
+
+    <color name="my_list_title_bckg">#2B2B2B</color>
+
 </resources>

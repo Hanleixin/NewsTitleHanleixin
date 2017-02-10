@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@color/all_background_title">
+
+    <ImageView
+        android:layout_width="85dp"
+        android:layout_height="25dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:background="@mipmap/title"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:hint="    搜你想搜的···"
+        android:background="@drawable/roll_button_background"
+        android:textSize="13dp"
+        android:textColorHint="#A5A5A5"/>
+
+</LinearLayout>
